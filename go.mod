@@ -1,4 +1,4 @@
-module github.com/CovenantSQL/CovenantSQL
+module github.com/pixy001/CovenantSQL
 
 go 1.13
 
