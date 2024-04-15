@@ -1,5 +1,5 @@
 module github.com/CovenantSQL/CovenantSQL
-replace github.com/CovenantSQL/CovenantSQL => github.com/pixy001/CovenantSQL
+replace github.com/CovenantSQL/CovenantSQL => github.com/pixy011/CovenantSQL
 
 go 1.13
 
